@@ -144,17 +144,21 @@ including chance event outcomes, resource costs, and utility. It is one way to d
 
 # Findings
 
-department -> The values are from 0 to 8, (Department does not matter a lot for promotion)
-education -> The values are from 0 to 3 where Masters-> 3, Btech -> 2, and secondary ed -> 1
-gender -> the values are 0 for female, and 1 for male
-no_of_trainings -> the values are from 0 to 5
-age -> the values are from 20 to 60
-previou_year_rating -> The values are from 1 to 5
-length_of service -> The values are from 1 to 37
-KPIs_met >80% -> 0 for Not Met and 1 for Met
-awards_won> -> 0-no, and 1-yes
-avg_training_score -> ranges from 40 to 99
-sum_metric -> ranges from 1 to 7
-total_score -> 40 to 710
+> department -> The values are from 0 to 8, (Department does not matter a lot for promotion)
+> education -> The values are from 0 to 3 where Masters-> 3, Btech -> 2, and secondary ed -> 1
+> gender -> the values are 0 for female, and 1 for male
+> no_of_trainings -> the values are from 0 to 5
+> age -> the values are from 20 to 60
+> previou_year_rating -> The values are from 1 to 5
+> length_of service -> The values are from 1 to 37
+> KPIs_met >80% -> 0 for Not Met and 1 for Met
+> awards_won> -> 0-no, and 1-yes
+> avg_training_score -> ranges from 40 to 99
+> sum_metric -> ranges from 1 to 7
+> total_score -> 40 to 710
+
+# Conclusion
+
+Hope you've liked the submisson and detailing. Would love to hear your thoughts. Please comment with any suggested input.
 
 
