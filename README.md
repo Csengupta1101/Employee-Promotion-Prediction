@@ -16,7 +16,7 @@ them in time.
 Currently there Process involves:
 ● Identify the employees based on Past performance and Recommendation.
 ● Selected Employees go through Training and Evaluation based on Skills Required.
-● At the end, The employee gets Promotion based on Training Score, and Keys.
+● At the end, The employee gets Promotion based on Training Score, and Key performences.
 
 # Necessary Libraries¶
 We Import Numpy, Pandas, Matplot, and Seaborn for Data Analysis and Visualizations
