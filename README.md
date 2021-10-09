@@ -14,7 +14,7 @@ It is a Large MNC and they have 9 broad verticals across the organisation. One o
 problems they face is around identifying the right people for promotion and preparing
 them in time.
 Currently there Process involves:
-● Identify employees based on Past performance and Recommendation.
+● Identify the employees based on Past performance and Recommendation.
 ● Selected Employees go through Training and Evaluation based on Skills Required.
 ● At the end, The employee gets Promotion based on Training Score, and KPIs.
 
